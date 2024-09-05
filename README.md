@@ -1,5 +1,9 @@
 # Navigating the future---Predict The Stock Market Using Machine Learning
 
+![Introduction 1](https://github.com/user-attachments/assets/97eaf83e-c57f-417f-acfa-ad59ea0d6a8f)
+
+![Introduction 2](https://github.com/user-attachments/assets/99c15bf7-1c9e-497e-bb56-63b5cecc0ec5)
+
 This project aims to predict the future direction of the S&P 500 stock index using machine learning techniques. By analyzing historical stock data, we can train a model to identify patterns and make predictions about the market's behavior.
 
 # **Project Overview**
