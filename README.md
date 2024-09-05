@@ -36,21 +36,21 @@ These metrics suggest that the model has some predictive power, but there is sti
 
 # Findings 
 
-Adding moving averages as features improved the model's performance compared to using only the basic stock data.
+a) Adding moving averages as features improved the model's performance compared to using only the basic stock data.
 
-The 'RandomForestClassifier' performed reasonably well, but other machine learning algorithms or deep learning models may yield better results.
+b) The 'RandomForestClassifier' performed reasonably well, but other machine learning algorithms or deep learning models may yield better results.
 
-The backtest results indicate that the model can provide a starting point for making trading decisions, but it should not be relied upon solely. Further research and testing are necessary to develop a robust trading strategy.
+c) The backtest results indicate that the model can provide a starting point for making trading decisions, but it should not be relied upon solely. Further research and testing are necessary to develop a robust trading strategy.
 
 # Future Work
 
-Explore additional feature engineering techniques to capture more relevant information from the stock data.
+1. Explore additional feature engineering techniques to capture more relevant information from the stock data.
 
-Test different machine learning algorithms and hyperparameter tuning to optimize the model's performance.
+2. Test different machine learning algorithms and hyperparameter tuning to optimize the model's performance.
 
-Expand the backtest to include more years and different market conditions to assess the model's robustness.
+3. Expand the backtest to include more years and different market conditions to assess the model's robustness.
 
-Develop a trading strategy that incorporates the model's predictions along with other factors, such as risk management and portfolio diversification.
+4. Develop a trading strategy that incorporates the model's predictions along with other factors, such as risk management and portfolio diversification.
 
 # Conclusion
 
