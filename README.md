@@ -6,7 +6,7 @@
 
 This project aims to predict the future direction of the S&P 500 stock index using machine learning techniques. By analyzing historical stock data, we can train a model to identify patterns and make predictions about the market's behavior.
 
-# **Project Overview**
+## Project Overview
 
 1. **Data Collection:** We use the yfinance library to download historical S&P 500 data from Yahoo Finance.
 
@@ -20,7 +20,7 @@ This project aims to predict the future direction of the S&P 500 stock index usi
 
 6.  **Visualization:** Matplotlib is used to visualize the actual and predicted values of the stock price.
 
-# Results
+## Results
 
 The backtest results for the years 2010-2019 with a custom threshold of 0.6 are:
 
@@ -34,7 +34,7 @@ The backtest results for the years 2010-2019 with a custom threshold of 0.6 are:
 
 These metrics suggest that the model has some predictive power, but there is still room for improvement. The visualization of actual vs. predicted values provides a clear comparison of the model's performance.
 
-# Findings 
+## Findings 
 
 a) Adding moving averages as features improved the model's performance compared to using only the basic stock data.
 
@@ -42,7 +42,7 @@ b) The 'RandomForestClassifier' performed reasonably well, but other machine lea
 
 c) The backtest results indicate that the model can provide a starting point for making trading decisions, but it should not be relied upon solely. Further research and testing are necessary to develop a robust trading strategy.
 
-# Future Work
+## Future Work
 
 1. Explore additional feature engineering techniques to capture more relevant information from the stock data.
 
@@ -52,6 +52,6 @@ c) The backtest results indicate that the model can provide a starting point for
 
 4. Develop a trading strategy that incorporates the model's predictions along with other factors, such as risk management and portfolio diversification.
 
-# Conclusion
+## Conclusion
 
 This project demonstrates the potential of using machine learning to predict stock market movements. While the results are promising, it's important to remember that stock market prediction is a complex task with inherent uncertainties. The model should be used as a tool to support decision-making, not as a guarantee of future profits.
